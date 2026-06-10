@@ -1,7 +1,14 @@
 header{
-background-color: black;
+background-color: rgb(41, 42, 99);
+color: white;
+max-width: 800px;
+margin: 0 auto;
 }
 
 main{
-    
+    background-color: rgb(51, 51, 128);
+    color:black;
+    text-align: center;
+    max-width: 800px;
+margin: 0 auto;
 }
